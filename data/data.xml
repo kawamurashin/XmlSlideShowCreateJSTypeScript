@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <scenes>
+        <scene id="0">
+            <text>TEXTtext001</text>
+            <images>
+                <image id="0">image/image001.png</image>
+                <image id="1">image/image002.png</image>
+                <image id="2">image/image003.png</image>
+            </images>
+        </scene>
+        <scene id="1">
+            <text>text002</text>
+            <images>
+                <image id="0">image/image011.png</image>
+                <image id="1">image/image012.png</image>
+                <image id="2">image/image013.png</image>
+                <image id="3">image/image014.png</image>
+            </images>
+        </scene>
+        <scene id="2">
+            <text>text003</text>
+            <images>
+                <image id="0">image/image021.png</image>
+                <image id="1">image/image022.png</image>
+                <image id="2">image/image023.png</image>
+                <image id="3">image/image024.png</image>
+                <image id="4">image/image025.png</image>
+            </images>
+
+        </scene>
+    </scenes>
+</data>
